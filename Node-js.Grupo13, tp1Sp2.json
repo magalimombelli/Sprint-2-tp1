@@ -1,0 +1,53 @@
+[{
+  "_id": {
+    "$oid": "6844bbebc38e589ecf8febbb"
+  },
+  "id": 2,
+  "nombreSuperheroe": "Ironman",
+  "nombreReal": "Tony Stark",
+  "nombreSociedad": "Vigilante",
+  "edad": 45,
+  "planetaOrigen": "Tierra",
+  "debilidad": "Dependiente de la tecnología",
+  "poder": [
+    "Armadura blindada",
+    "Volar",
+    "Láseres"
+  ],
+  "habilidadEspecial": "Ingeniería avanzada",
+  "aliado": [
+    "Spiderman"
+  ],
+  "enemigo": [
+    "Mandarín"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6844bbebc38e589ecf8febbc"
+  },
+  "id": 3,
+  "nombreSuperheroe": "Thor",
+  "nombreReal": "Thor Odinson",
+  "nombreSociedad": "Dios del Trueno",
+  "edad": 1000,
+  "planetaOrigen": "Asgard",
+  "debilidad": "Destruir su martillo",
+  "poder": [
+    "Controlar el trueno",
+    "Fuerza sobrehumana",
+    "Inmortal"
+  ],
+  "habilidadEspecial": "Invocación de tormentas",
+  "aliado": [
+    "Loki"
+  ],
+  "enemigo": [
+    "Hela"
+  ]
+},
+{
+  "_id": {
+    "$oid": "6849f77dfda18e63d4e5fb57"
+  }
+}]
